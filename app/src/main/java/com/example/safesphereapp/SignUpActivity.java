@@ -5,7 +5,7 @@ import androidx.viewpager.widget.ViewPager;
 import android.os.Bundle;
 import android.app.Activity;
 
-public class SignUpActivity extends Activity {
+public class SignUpActivity extends AppCompatActivity {
 
     // creating object of ViewPager
     ViewPager mViewPager;
